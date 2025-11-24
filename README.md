@@ -1,2 +1,2 @@
-# war-master
+# Andre-wargod
 making C++ simple projects
